@@ -25,9 +25,9 @@ TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
 SECRET_KEY = '#bsmjl#nzndd(7o^h14yl#3rfaav9o3wl%4h8be^)9!yr+ees#'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['https://legends-list.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = []
 
 # Application definition
 
