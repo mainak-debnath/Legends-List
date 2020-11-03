@@ -1,1 +1,1 @@
-web: gunicorn Legends_list.wsgi
+web: gunicorn Legends_List.wsgi
